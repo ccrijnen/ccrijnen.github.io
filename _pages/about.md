@@ -13,7 +13,7 @@ Currently, I’m particularly interested in **video representation learning with
 
 ## Building community
 
-Beyond research, I care deeply about fostering an inclusive and engaging academic community. I'm an active member of the UNIQUE Student Affairs Committee, where I help organize student events, research presentations, and networking opportunities for the NeuroAI community. I also love teaching and mentoring. Being a TA has been one of my favorite roles during my studies because it allows me to share knowledge, guide students, and help others develop their own understanding of AI. Whether it's through formal teaching or casual discussions, I find a lot of fulfillment in helping others grow.
+Beyond research, I care deeply about fostering an inclusive and engaging academic community. I'm an active member of the UNIQUE Student Affairs Committee, where I help organize student conferences like the UNIQUE Student Symposium (USS), as well as semesterly get-togethers featuring research presentations and networking opportunities for the NeuroAI community. I also love teaching and mentoring. Being a TA has been one of my favorite roles during my studies because it allows me to share knowledge, guide students, and help others develop their own understanding of AI. Whether it's through formal teaching or casual discussions, I find a lot of fulfillment in helping others grow.
 
 ## What Keeps Me Inspired
 

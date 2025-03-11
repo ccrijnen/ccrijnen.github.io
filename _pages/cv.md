@@ -61,6 +61,11 @@ redirect_from:
 ***
 # Extracurricular Activities
 
+* Fall 2024: Student Volunteer for MAIN 2024 conference
+  * Managed shifts at the registration desk, assisting attendees with check-in and inquiries
+  * Coordinated poster session setup
+  * Assisted with logistical tasks, such as directing attendees and supporting the conference party setup
+
 * Fall 2024 – present: Technical Lead, UNIQUE Student Affairs Committee (SAC)
   * Maintaining the UNIQUE students website
   * Setting up the tech for events
