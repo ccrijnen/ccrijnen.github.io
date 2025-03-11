@@ -84,7 +84,7 @@ redirect_from:
   * Responsibilities:
     * Continued developing and improving the Z-Stack Enhancement pipeline, which was initially developed during my master's thesis.
 
-* Dec. 2020 – June 2021: Medical Biometry
+* December 2020 – June 2021: Medical Biometry
   * *Coordination Center for Clinical Trials at University Hospital Düsseldorf*
   * Responsibilities:
     * Created statistical analysis for clinical trials using *Tidyverse*.
