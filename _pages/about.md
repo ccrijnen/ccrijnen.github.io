@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Cornelius, a PhD student in Psychology at Université de Montréal, working with [Shahab Bakhtiari](https://mila.quebec/en/directory/shahab-bakhtiari). I'm passionate about deep learning and AI, with a focus on self-supervised learning (SSL), representation learning, computer vision, generative models, and reinforcement learning.
+Hi! I'm Cornelius, a PhD student in Psychology at Université de Montréal and [Mila](https://mila.quebec/en/directory/cornelius-crijnen), working with [Shahab Bakhtiari](https://mila.quebec/en/directory/shahab-bakhtiari). I'm passionate about deep learning and AI, with a focus on self-supervised learning (SSL), representation learning, computer vision, generative models, and reinforcement learning.
 
 Currently, I’m particularly interested in **video representation learning with SSL**, exploring how neural networks can learn structured and meaningful representations from raw video data. I’m fascinated by how AI models can capture temporal dynamics and how these representations can be applied to various downstream tasks.
 

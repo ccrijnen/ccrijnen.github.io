@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Cornelius Crijnen"
   pronouns         : "he/him"
-  bio              : "PhD student at Université de Montréal <br> <br> I'm passionate about deep learning and AI research <br> <br> My primary interests include self-supervised learning (SSL), representation learning, computer vision, generative models, and reinforcement learning"
+  bio              : "PhD student at Université de Montréal and <a href='https://mila.quebec/en/directory/cornelius-crijnen'>Mila</a> <br> <br> I'm passionate about deep learning and AI research <br> <br> My primary interests include self-supervised learning (SSL), representation learning, computer vision, generative models, and reinforcement learning"
   location         : "Montreal, Canada"
   employer         : "Université de Montréal"
   uri              : # URL
