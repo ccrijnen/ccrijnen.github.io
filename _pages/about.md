@@ -1,49 +1,53 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi! I'm Cornelius, a PhD student at Université de Montréal in Psychology, working with [Shahab Bakhtiari](https://mila.quebec/en/directory/shahab-bakhtiari). I'm passionate about deep learning and AI, with a focus on self-supervised learning (SSL), representation learning, computer vision, generative models, and reinforcement learning.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Currently, I’m particularly interested in **video representation learning with SSL**, exploring how neural networks can learn structured and meaningful representations from raw video data. I’m fascinated by how AI models can capture temporal dynamics and how these representations can be applied to various downstream tasks.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Building community
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Beyond research, I care deeply about fostering an inclusive and engaging academic community. I'm an active member of the UNIQUE Student Affairs Committee, where I help organize student events, research presentations, and networking opportunities for the NeuroAI community. I also love teaching and mentoring. Being a TA has been one of my favorite roles during my studies because it allows me to share knowledge, guide students, and help others develop their own understanding of AI. Whether it's through formal teaching or casual discussions, I find a lot of fulfillment in helping others grow.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## What Keeps Me Inspired
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+When I’m not working on AI, you’ll likely find me outdoors: running, rollerblading, ice skating, biking, or just enjoying nature. I’m an avid reader, particularly of fantasy and sci-fi, and love getting lost in new worlds through books. I also have a passion for live music, urban design, and well-integrated public transport. Seeing cities built for people rather than cars is particularly of interest to me, and I enjoy thinking about how thoughtful urban planning can improve daily life. Fun fact: I can solve a Rubik's Cube in under 30 seconds!
 
-**Markdown generator**
+---
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+# Projects
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Cross-Species Analysis of Visual Systems: Understanding Visual System Development via Species-Specific Movements
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+This project investigates how distinct movement repertoires shape the visual system of different species. Using self-supervised learning (SSL) trained on first-person video footage from rats and treeshrews, I compare the learned representations with neural data from mice and macaques. Through Representational Similarity Analysis (RSA), I analyze how these models align with biological visual systems, revealing how species-specific movement patterns influence visual representations. The results indicate that visual experience alone, shaped by movement dynamics, plays a crucial role in determining the structure of learned visual representations, even in artificial neural networks.  
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+## Visual Enhancement of Whole Brain Slide Images from Z-Scanning Microscopes with Deep Style Learning
+
+For my master’s thesis, I developed the Z-Stack Enhancement (ZSE) pipeline, a deep learning framework implemented in *Pytorch Lightning* that enhances whole-brain microscopy images by transferring the visual style of an in-focus reference image to out-of-focus images. Using a U-Net with Adaptive Instance Normalization (AdaIN), this method deblurs microscopic images, improving clarity and aiding researchers in analyzing fine cellular structures.  
+
+![Training Pipeline](https://github.com/ccrijnen/Z-Stack-Enhancement/raw/main/reports/method/training.png)
+
+### **Key contributions:**  
+* Developed a novel deep style learning framework inspired by neural style transfer, adapted for microscopy images.  
+* Introduced two 3D loss functions for optimizing image stacks, enabling more realistic reconstructions of brain tissue.  
+* Evaluated on two datasets, including super-high-resolution brain z-stacks from Research Center Jülich and Leishmania parasite images, showing state-of-the-art performance with fewer parameters and better generalization than existing methods.  
+* Publicly released the trained models and PyTorch implementation [GitHub Repository](https://github.com/ccrijnen/Z-Stack-Enhancement).  
+
+
+## Playing Go with Recurrent Neural Networks
+
+In my bachelor’s thesis, I implemented neural networks in *TensorFlow* for playing Go via imitation learning, training on hundreds of thousands of expert human games. The goal was to explore different architectures and their efficiency in learning the game.  
+
+### **Key contributions:**  
+* Implemented two competing architectures:  
+  * Recurrent neural network (RNN) approach A CNN backbone combined with a ConvGRU layer to summarize context from past board states.  
+  * CNN-only approach (inspired by AlphaGo Zero): Encoded past states using additional input channels rather than a recurrent structure.  
+* Found that the RNN-based model learned more efficiently than the CNN-only approach, while ultimately reaching similar performance.  
+* Provided insights into the effectiveness of temporal modeling for decision-making in reinforcement learning tasks.  
