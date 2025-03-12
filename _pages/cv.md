@@ -40,6 +40,40 @@ redirect_from:
 
 
 ***
+# Experience
+
+* Fall 2024: Teaching Assistant
+  * *Université de Montréal*
+  * Course: PSY6913 IA, psychologie et neuroscience cognitive
+  * Responsibilities:
+    * Creating assignments and their solutions.
+
+* Winter 2023: Research Assistant
+  * *Research Center Jülich - Institute of Neurosciences and Medicine (INM-1)*
+  * Responsibilities:
+    * Continued developing and improving the Z-Stack Enhancement pipeline, which was initially developed during my master's thesis.
+
+* December 2020 – June 2021: Medical Biometry
+  * *Coordination Center for Clinical Trials at University Hospital Düsseldorf*
+  * Responsibilities:
+    * Created statistical analysis for clinical trials using *Tidyverse*.
+    * Helped maintain the R packages *bamdit* and *jarbes*.
+
+* 2018 – 2021: Teaching Assistant
+  * *Heinrich-Heine-University Düsseldorf*
+  * Courses:
+    * Deep Learning (Summer 2021 & Summer 2019)
+    * AI in Life Sciences (Summer 2020)
+    * Machine Learning (Winter 2019/2020)
+    * Algorithms and Data Structures (Winter 2018/2019)
+    * Theoretical Computer Science (Summer 2018)
+  * Responsibilities:
+    * Conducted weekly exercise classes.
+    * Created and graded assignments, weekly exercises, and final exams.
+    * Supported student learning through hands-on tutorials and practical demonstrations.
+
+
+***
 # Presentations and Posters
 
 * November 2024: Presentation at UNIQUE Fellows Get-Together
@@ -73,40 +107,6 @@ redirect_from:
 * Winter 2024: Program Committee, UNIQUE Student Symposium (USS) 2024
   * Defining the academic program of the conference
   * Selecting speakers (one professor and two students) for each of the four academic sessions
-
-
-***
-# Experience
-
-* Fall 2024: Teaching Assistant
-  * *Université de Montréal*
-  * Course: PSY6913 IA, psychologie et neuroscience cognitive
-  * Responsibilities:
-    * Creating assignments and their solutions.
-
-* Winter 2023: Research Assistant
-  * *Research Center Jülich - Institute of Neurosciences and Medicine (INM-1)*
-  * Responsibilities:
-    * Continued developing and improving the Z-Stack Enhancement pipeline, which was initially developed during my master's thesis.
-
-* December 2020 – June 2021: Medical Biometry
-  * *Coordination Center for Clinical Trials at University Hospital Düsseldorf*
-  * Responsibilities:
-    * Created statistical analysis for clinical trials using *Tidyverse*.
-    * Helped maintain the R packages *bamdit* and *jarbes*.
-
-* 2018 – 2021: Teaching Assistant
-  * *Heinrich-Heine-University Düsseldorf*
-  * Courses:
-    * Deep Learning (Summer 2021 & Summer 2019)
-    * AI in Life Sciences (Summer 2020)
-    * Machine Learning (Winter 2019/2020)
-    * Algorithms and Data Structures (Winter 2018/2019)
-    * Theoretical Computer Science (Summer 2018)
-  * Responsibilities:
-    * Conducted weekly exercise classes.
-    * Created and graded assignments, weekly exercises, and final exams.
-    * Supported student learning through hands-on tutorials and practical demonstrations.
 
 
 ***
