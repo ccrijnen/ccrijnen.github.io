@@ -42,11 +42,11 @@ redirect_from:
 ***
 # Experience
 
-* Fall 2024: Teaching Assistant
+<!-- * Fall 2024: Teaching Assistant
   * *Université de Montréal*
   * Course: PSY6913 IA, psychologie et neuroscience cognitive
   * Responsibilities:
-    * Creating assignments and their solutions.
+    * Creating assignments and their solutions. -->
 
 * Winter 2023: Research Assistant
   * *Research Center Jülich - Institute of Neurosciences and Medicine (INM-1)*
