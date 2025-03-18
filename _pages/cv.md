@@ -14,15 +14,18 @@ redirect_from:
 * **Ph.D. in Psychology**, Université de Montréal, present
   <!-- * GPA: 4.129 -->
   * Specialization: Cognitive Science and Neuropsychology
+  * Courses: IFT 6135 (*Representation Learning*), PSY 6983 (*Neural Data Science Project*)
   * Supervisor: Shahab Bakhtiari
 
 * **M.Sc. in Computer Science**, Heinrich-Heine-University Düsseldorf, January 2023
   <!-- * GPA: Very good (1.1)[^1] -->
   * Specialization: Machine Learning and Artificial Intelligence
+  * Courses: Deep Learning, Reinforcement Learning, Causality, Generative Models and Sampling Methods, Methods of Artificial Intelligence in Life Sciences, Advanced Topics in Bayesian Data Science
 
 * **B.Sc. in Computer Science**, Heinrich-Heine-University Düsseldorf, December 2018
   <!-- * GPA: Very good (1.5)[^1] -->
   * Minor: Modern Japanese Studies
+  * Courses: Machine Learning, Overview of Artificial Intelligence, Calculus I and II, Linear Algebra, Stochastics
 
 <!-- [^1]: [German grading system](https://en.wikipedia.org/wiki/Academic_grading_in_Germany#Tertiary_education) -->
 
@@ -95,14 +98,14 @@ redirect_from:
 ***
 # Extracurricular Activities
 
+* Fall 2024 – present: Technical Lead, UNIQUE Student Affairs Committee (SAC)
+  * Maintaining the UNIQUE students website
+  * Setting up the tech for events
+
 * Fall 2024: Student Volunteer for MAIN 2024 conference
   * Managed shifts at the registration desk, assisting attendees with check-in and inquiries
   * Coordinated poster session setup
   * Assisted with logistical tasks, such as directing attendees and supporting the conference party setup
-
-* Fall 2024 – present: Technical Lead, UNIQUE Student Affairs Committee (SAC)
-  * Maintaining the UNIQUE students website
-  * Setting up the tech for events
 
 * Winter 2024: Program Committee, UNIQUE Student Symposium (USS) 2024
   * Defining the academic program of the conference

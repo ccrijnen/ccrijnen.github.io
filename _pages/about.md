@@ -13,11 +13,11 @@ Currently, I’m particularly interested in video representation learning with S
 
 ## Building community
 
-Beyond research, I care deeply about fostering an inclusive and engaging academic community. I'm an active member of the UNIQUE Student Affairs Committee, where I help organize student conferences like the UNIQUE Student Symposium (USS), as well as semesterly get-togethers featuring research presentations and networking opportunities for the NeuroAI community. I also love teaching and mentoring. Being a TA has been one of my favorite roles during my studies because it allows me to share knowledge, guide students, and help others develop their own understanding of AI. Whether it's through formal teaching or casual discussions, I find a lot of fulfillment in helping others grow.
+Beyond research, I care deeply about fostering an inclusive and engaging academic community. I'm an active member of the UNIQUE Student Affairs Committee, where I help organize student conferences like the UNIQUE Student Symposium (USS), as well as semesterly get-togethers featuring research presentations and networking opportunities for the NeuroAI community. I also love teaching and mentoring. Being a TA has been one of my favorite roles during my studies because it allows me to share knowledge, guide students, and help others develop their own understanding of deep learning. Whether it's through formal teaching or casual discussions, I find a lot of fulfillment in helping others grow.
 
 ## What Keeps Me Inspired
 
-When I’m not working on AI, you’ll likely find me outdoors: running, rollerblading, ice skating, biking, or just enjoying nature. I’m an avid reader, particularly of fantasy and sci-fi, and love getting lost in new worlds through books. I also have a passion for live music, urban design, and well-integrated public transport. Seeing cities built for people rather than cars is particularly of interest to me, and I enjoy thinking about how thoughtful urban planning can improve daily life. Fun fact: I can solve a Rubik's Cube in under 30 seconds!
+When I’m not doing research, you’ll likely find me outdoors: running, rollerblading, ice skating (during winter), biking, or just enjoying nature. I’m an avid reader, particularly of fantasy and sci-fi. I also have a passion for live music, urban design, and well-integrated public transport. Seeing cities built for people rather than cars is particularly of interest to me, and I enjoy thinking about how thoughtful urban planning can improve daily life. Fun fact: I can solve a Rubik's Cube in under 30 seconds!
 
 ---
 
