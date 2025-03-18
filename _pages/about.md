@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Cornelius, a PhD student in Psychology at Université de Montréal and [Mila](https://mila.quebec/en/directory/cornelius-crijnen), working with [Shahab Bakhtiari](https://mila.quebec/en/directory/shahab-bakhtiari). I'm passionate about deep learning and AI, with a focus on self-supervised learning (SSL), representation learning, computer vision, generative models, and reinforcement learning.
+Hi! I'm Cornelius, a PhD student in Psychology at Université de Montréal and [Mila](https://mila.quebec/en/directory/cornelius-crijnen), working with [Shahab Bakhtiari](https://mila.quebec/en/directory/shahab-bakhtiari). I'm passionate about deep learning and AI, with a focus on self-supervised learning (SSL), representation learning, multimodal learning, computer vision, generative models, and reinforcement learning.
 
 Currently, I’m particularly interested in video representation learning with SSL, exploring how neural networks can learn structured and meaningful representations from raw video data. I’m fascinated by how AI models can capture temporal dynamics and how these representations can be applied to various downstream tasks.
 
@@ -25,29 +25,29 @@ When I’m not doing research, you’ll likely find me outdoors: running, roller
 
 ## Cross-Species Analysis of Visual Systems: Understanding Visual System Development via Species-Specific Movements
 
-This project investigates how distinct movement repertoires shape the visual system of different species. Using self-supervised learning (SSL) trained on first-person video footage from rats and treeshrews, I compare the learned representations with neural data from mice and macaques. Through Representational Similarity Analysis (RSA), I analyze how these models align with biological visual systems, revealing how species-specific movement patterns influence visual representations. The results indicate that visual experience alone, shaped by movement dynamics, plays a crucial role in determining the structure of learned visual representations, even in artificial neural networks.  
+This project investigates how distinct movement repertoires shape the visual systems of different species. By employing self-supervised learning (SSL) models trained on first-person video footage from rats and treeshrews, we compare the learned representations with neural data obtained from mice and macaques. Using Representational Similarity Analysis (RSA), we assess how these artificial neural network models align with biological visual systems, highlighting the impact of species-specific movement patterns on visual representation structures. Our findings indicate that visual experience, shaped by movement dynamics, is critical in determining the learned visual representations, even within artificial systems.
 
 
 ## Visual Enhancement of Whole Brain Slide Images from Z-Scanning Microscopes with Deep Style Learning
 
-For my master’s thesis, I developed the Z-Stack Enhancement (ZSE) pipeline, a deep learning framework implemented in *Pytorch Lightning* that enhances whole-brain microscopy images by transferring the visual style of an in-focus reference image to out-of-focus images. Using a U-Net with Adaptive Instance Normalization (AdaIN), this method deblurs microscopic images, improving clarity and aiding researchers in analyzing fine cellular structures.  
-
 ![Training Pipeline](https://github.com/ccrijnen/Z-Stack-Enhancement/raw/main/reports/method/training.png)
 
+In this master's thesis project, we developed the Z-Stack Enhancement (ZSE) pipeline, a deep learning framework implemented using Pytorch Lightning designed to enhance whole-brain microscopy images. This approach transfers the visual style from an in-focus reference image to out-of-focus images using a U-Net architecture combined with Adaptive Instance Normalization (AdaIN). The method effectively deblurs microscopic images, enhancing clarity and facilitating detailed analysis of fine cellular structures.
+
 ### **Key contributions:**  
-* Developed a novel deep style learning framework inspired by neural style transfer, adapted for microscopy images.  
-* Introduced two 3D loss functions for optimizing image stacks, enabling more realistic reconstructions of brain tissue.  
-* Evaluated on two datasets, including super-high-resolution brain z-stacks from Research Center Jülich and Leishmania parasite images, showing state-of-the-art performance with fewer parameters and better generalization than existing methods.  
-* Publicly released the trained models and PyTorch implementation [GitHub Repository](https://github.com/ccrijnen/Z-Stack-Enhancement).  
+* Development of a novel deep style learning framework inspired by neural style transfer, specifically adapted for microscopy imaging.
+* Introduction of two novel 3D loss functions optimized for image stacks, resulting in more realistic reconstructions of brain tissue. 
+* Evaluation on two datasets, including super-high-resolution brain z-stacks from Research Center Jülich and microscopy images of Leishmania parasites, achieving state-of-the-art results with fewer parameters and improved generalization compared to existing methods.
+* Public release of trained models and PyTorch implementation on a [GitHub Repository](https://github.com/ccrijnen/Z-Stack-Enhancement).  
 
 
 ## Playing Go with Recurrent Neural Networks
 
-In my bachelor’s thesis, I implemented neural networks in *TensorFlow* for playing Go via imitation learning, training on hundreds of thousands of expert human games. The goal was to explore different architectures and their efficiency in learning the game.  
+In this bachelor's thesis, we implemented neural network models using TensorFlow for playing Go via imitation learning, training on extensive datasets of expert human games. The project's goal was to evaluate different neural network architectures regarding their learning efficiency and effectiveness in mastering the game.
 
 ### **Key contributions:**  
-* Implemented two competing architectures:  
-  * Recurrent neural network (RNN) approach A CNN backbone combined with a ConvGRU layer to summarize context from past board states.  
-  * CNN-only approach (inspired by AlphaGo Zero): Encoded past states using additional input channels rather than a recurrent structure.  
-* Found that the RNN-based model learned more efficiently than the CNN-only approach, while ultimately reaching similar performance.  
-* Provided insights into the effectiveness of temporal modeling for decision-making in reinforcement learning tasks.  
+* Implementation and comparison of two architectures: 
+  * A RNN model consisting of a CNN backbone with an integrated ConvGRU layer for context summarization from past board states.
+  * A CNN-only approach, inspired by AlphaGo Zero, utilizing additional input channels to encode past states without recurrence.
+* Demonstration that the RNN-based model learned more efficiently compared to the CNN-only model, though both ultimately achieved comparable performance.
+* Providing insights into the significance of temporal modeling for decision-making processes in reinforcement learning contexts. 
