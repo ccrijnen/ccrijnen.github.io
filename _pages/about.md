@@ -17,7 +17,9 @@ Beyond research, I care deeply about fostering an inclusive and engaging academi
 
 ## What Keeps Me Inspired
 
-When I’m not doing research, you’ll likely find me outdoors: running, rollerblading, ice skating (during winter), biking, or just enjoying nature. I’m an avid reader, particularly of fantasy and sci-fi. I also have a passion for live music, urban design, and well-integrated public transport. Seeing cities built for people rather than cars is particularly of interest to me, and I enjoy thinking about how thoughtful urban planning can improve daily life. Fun fact: I can solve a Rubik's Cube in under 30 seconds!
+When I’m not doing research, you’ll likely find me doing outdoors or being active. I especially enjoy running, rollerblading, bouldering, ice skating (during winter), biking, or simply being in nature. I'm currently training for my first marathon, which I once thought would be impossible. Rollerblading is one of my greatest passions. I particularly love urban skating and wizard skating, and enjoy experimenting with gear and different skate setups. Being part of Montreal's Rolling Tribes community has become one of my favorite ways to connect and stay active.
+
+Beyond sports, I’m an avid reader, especially drawn to fantasy and sci-fi. I'm also passionate about live music and thoughtful urban design. I find it fascinating to consider how cities designed for people rather than cars can profoundly enhance daily life. Fun fact: I can solve a Rubik's Cube in under 30 seconds!
 
 ---
 

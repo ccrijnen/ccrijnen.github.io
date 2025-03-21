@@ -102,6 +102,8 @@ redirect_from:
   * Maintaining the UNIQUE students website
   * Setting up the tech for events
 
+* Winter 2025: Treasurer, UNIQUE Student Symposium (USS) 2025
+
 * Fall 2024: Student Volunteer for MAIN 2024 conference
   * Managed shifts at the registration desk, assisting attendees with check-in and inquiries
   * Coordinated poster session setup
