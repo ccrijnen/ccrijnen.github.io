@@ -9,17 +9,17 @@ redirect_from:
 
 Hi! I'm Cornelius, a PhD student in Psychology at Université de Montréal and [Mila](https://mila.quebec/en/directory/cornelius-crijnen), working with [Shahab Bakhtiari](https://mila.quebec/en/directory/shahab-bakhtiari). I'm passionate about deep learning and AI, with a focus on self-supervised learning (SSL), representation learning, multimodal learning, computer vision, generative models, and reinforcement learning.
 
-Currently, I’m particularly interested in video representation learning with SSL, exploring how neural networks can learn structured and meaningful representations from raw video data. I’m fascinated by how AI models can capture temporal dynamics and how these representations can be applied to various downstream tasks.
+Currently, I'm working on video representation learning. I study how neural networks can learn useful representations directly from videos. I'm interested in understanding how AI can capture temporal dynamics and how these representations can be applied to various downstream tasks.
 
-## Building community
+## Community & Teaching
 
-Beyond research, I care deeply about fostering an inclusive and engaging academic community. I'm an active member of the UNIQUE Student Affairs Committee, where I help organize student conferences like the UNIQUE Student Symposium (USS), as well as semesterly get-togethers featuring research presentations and networking opportunities for the NeuroAI community. I also love teaching and mentoring. Being a TA has been one of my favorite roles during my studies because it allows me to share knowledge, guide students, and help others develop their own understanding of deep learning. Whether it's through formal teaching or casual discussions, I find a lot of fulfillment in helping others grow.
+Beyond research, I'm an active member of the UNIQUE Student Affairs Committee, where I help organize student conferences and social events like the UNIQUE Student Symposium (USS) and semesterly get-togethers featuring research presentations and networking opportunities for the NeuroAI community. I also love teaching and mentoring. Being a TA has been one of my favorite roles during my studies because it allows me to share knowledge, guide students, and help others develop their own understanding of deep learning. Whether it's through formal teaching or casual discussions, I find a lot of fulfillment in helping others grow.
 
 ## What Keeps Me Inspired
 
-When I’m not doing research, you’ll likely find me doing outdoors or being active. I especially enjoy running, rollerblading, bouldering, ice skating (during winter), biking, or simply being in nature. I'm currently training for my first marathon, which I once thought would be impossible. Rollerblading is one of my greatest passions. I particularly love urban skating and wizard skating, and enjoy experimenting with gear and different skate setups. Being part of Montreal's Rolling Tribes community has become one of my favorite ways to connect and stay active.
+When I’m not doing research, you’ll likely find me doing outdoors or being active. I love running, rollerblading, bouldering, ice skating (during winter), biking, or simply being in nature. I'm currently training for my first marathon, which I once thought would be impossible. Rollerblading, especially urban and wizard skating, is one of my favorite hobbies. It's so much fun experimenting with gear and different skate setups too. I'm part of Montreal’s Rolling Tribes community, which has been a great way to stay active and meet people.
 
-Beyond sports, I’m an avid reader, especially drawn to fantasy and sci-fi. I'm also passionate about live music and thoughtful urban design. I find it fascinating to consider how cities designed for people rather than cars can profoundly enhance daily life. Fun fact: I can solve a Rubik's Cube in under 30 seconds!
+I also enjoy reading fantasy and sci-fi, listening to live music, and thinking about urban design. I care about cities being built around people instead of cars, which in my opinion drastically enhances daily life. Fun fact: I can solve a Rubik's Cube in under 30 seconds!
 
 ---
 
@@ -34,7 +34,7 @@ This project investigates how distinct movement repertoires shape the visual sys
 
 ![Training Pipeline](https://github.com/ccrijnen/Z-Stack-Enhancement/raw/main/reports/method/training.png)
 
-In this master's thesis project, we developed the Z-Stack Enhancement (ZSE) pipeline, a deep learning framework implemented using Pytorch Lightning designed to enhance whole-brain microscopy images. This approach transfers the visual style from an in-focus reference image to out-of-focus images using a U-Net architecture combined with Adaptive Instance Normalization (AdaIN). The method effectively deblurs microscopic images, enhancing clarity and facilitating detailed analysis of fine cellular structures.
+In this master's thesis project, we developed the Z-Stack Enhancement (ZSE) pipeline, a deep learning framework implemented using Pytorch Lightning designed to enhance whole-brain microscopy images. This approach transfers the visual style from an in-focus reference image to out-of-focus images using a U-Net architecture combined with Adaptive Instance Normalization (AdaIN). The method effectively deblurs microscopic images, enhancing clarity and making it easier to study detailed brain structures.
 
 ### **Key contributions:**  
 * Development of a novel deep style learning framework inspired by neural style transfer, specifically adapted for microscopy imaging.
