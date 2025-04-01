@@ -31,6 +31,8 @@ I also enjoy reading fantasy and sci-fi, listening to live music, and thinking a
 
 This project investigates how distinct movement repertoires shape the visual systems of different species. By employing self-supervised learning (SSL) models trained on first-person video footage from rats and treeshrews, we compare the learned representations with neural data obtained from mice and macaques. Using Representational Similarity Analysis (RSA), we assess how these artificial neural network models align with biological visual systems, highlighting the impact of species-specific movement patterns on visual representation structures. Our findings indicate that visual experience, shaped by movement dynamics, is critical in determining the learned visual representations, even within artificial systems.
 
+The project is nearing completion, and we are preparing a manuscript for submission now. Our findings suggest that visual experience, shaped by movement dynamics, plays a critical role in shaping learned visual representations, both in biological and artificial systems.
+
 
 ## Visual Enhancement of Whole Brain Slide Images from Z-Scanning Microscopes with Deep Style Learning
 
