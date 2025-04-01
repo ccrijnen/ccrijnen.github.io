@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Cornelius, a PhD student in Psychology at Université de Montréal and [Mila](https://mila.quebec/en/directory/cornelius-crijnen), working with [Shahab Bakhtiari](https://mila.quebec/en/directory/shahab-bakhtiari). I'm passionate about deep learning and AI, with a focus on self-supervised learning (SSL), representation learning, multimodal learning, computer vision, generative models, and reinforcement learning.
+Hi! I'm Cornelius, a PhD student in Psychology at Université de Montréal and [Mila](https://mila.quebec/en/directory/cornelius-crijnen), working with [Shahab Bakhtiari](https://mila.quebec/en/directory/shahab-bakhtiari).
 
-Currently, I'm working on video representation learning. I study how neural networks can learn useful representations directly from videos. I'm interested in understanding how AI can capture temporal dynamics and how these representations can be applied to various downstream tasks.
+I'm currently looking for a new PhD supervisor and planning to transfer to the computer science program. While my current research has provided valuable interdisciplinary experience at the intersection of AI and neuroscience, I’m aiming to return to core AI topics and join a lab more focused on deep learning. My interests include self-supervised learning, representation learning, multimodal learning, computer vision, generative models, machine learning theory, and reinforcement learning. If you're working in these areas and open to supervision opportunities, I’d be happy to connect.
+
+At the moment, I'm working on [a project](#cross-species-analysis-of-visual-systems-understanding-visual-system-development-via-species-specific-movements) that investigates how neural networks can learn useful representations from video, with a focus on how species-specific movement patterns shape visual system development in the brain.
 
 ## Community & Teaching
 
